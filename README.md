@@ -42,7 +42,19 @@
 <section id="nosotros">
     <h2>Nosotros</h2>
     <p><strong>Misión:</strong> Garantizar el ejercicio pleno de los derechos fundamentales de las comunidades negras y afrodescendientes de San Antero mediante la implementación de estrategias jurídicas, sociales y culturales que promuevan su inclusión, participación y desarrollo.</p>
-    
+  <!-- Sección Visión -->
+<section id="vision" style="padding: 20px; background-color: #f4f4f4; border-radius: 8px; margin: 20px auto; max-width: 900px; text-align: justify; font-family: 'Century Gothic', sans-serif;">
+    <h2 style="text-align: center; font-size: 28px; color: #2c3e50;">Visión</h2>
+    <p style="font-size: 18px; line-height: 1.8; color: #555;">
+        ADECONES se proyecta como una asociación integradora y líder en la promoción de los derechos humanos, sociales y culturales, trabajando en beneficio de toda la comunidad de San Antero, Córdoba. 
+        Nuestra visión abarca a todos los sectores sociales, incluyendo pescadores, agricultores, gente de mar, afrodescendientes, profesores, madres cabeza de hogar, niños, niñas, adolescentes, personas vulnerables, 
+        y otros órganos municipales y departamentales. Aspiramos a ser reconocidos como un motor de desarrollo que fomenta la igualdad, la inclusión y el progreso sostenible, sin distinción de raza, género o condición social.
+    </p>
+    <p style="font-size: 18px; line-height: 1.8; color: #555;">
+        Para el año 2030, queremos consolidarnos como un referente nacional en la creación de proyectos de desarrollo comunitario que promuevan la educación, el bienestar, la participación ciudadana y la preservación del medio ambiente. 
+        Nuestro compromiso es trabajar de la mano con la comunidad Sananterana para construir un futuro basado en la equidad, la solidaridad y el respeto mutuo, siempre protegiendo y fortaleciendo los valores culturales que nos identifican.
+    </p>
+</section>  
     <p><strong>Visión:</strong> Ser reconocidos
     <!-- Sección Proyectos -->
 <section id="proyectos">
