@@ -39,56 +39,43 @@
 </section>
 
 <!-- Sección Nosotros -->
-<section id="nosotros">
-    <h2>Nosotros</h2>
-    <p><strong>Misión:</strong> Garantizar el ejercicio pleno de los derechos fundamentales de las comunidades negras y afrodescendientes de San Antero mediante la implementación de estrategias jurídicas, sociales y culturales que promuevan su inclusión, participación y desarrollo.</p>
-  <!-- Sección Visión -->
-<section id="vision" style="padding: 20px; background-color: #f4f4f4; border-radius: 8px; margin: 20px auto; max-width: 900px; text-align: justify; font-family: 'Century Gothic', sans-serif;">
+<section id="introduccion" style="padding: 20px; background-color: #e8f5e9; border-radius: 8px; margin: 20px auto; max-width: 900px; font-family: 'Century Gothic', sans-serif;">
+    <h2 style="text-align: center; font-size: 30px; color: #1b5e20;">¿Quiénes Somos?</h2>
+    <p style="font-size: 18px; line-height: 1.8; color: #555; text-align: justify;">
+        **ADECONES** (Asociación por los Derechos de las Comunidades Negras de San Antero) es una entidad de carácter no lucrativo que trabaja por la inclusión, equidad y justicia social de las comunidades afrodescendientes de San Antero, Córdoba. Fundada en 1996, ADECONES tiene como principal misión garantizar el respeto y la promoción de los derechos humanos de las comunidades negras, indígenas, pescadores, agricultores, madres cabeza de hogar, niños, adolescentes y sectores vulnerables de la región. A lo largo de los años, la asociación ha logrado consolidarse como un eje central para el desarrollo social, económico y cultural de la comunidad sananterana.
+    </p>
+    <p style="font-size: 18px; line-height: 1.8; color: #555; text-align: justify;">
+        Con un enfoque integral, ADECONES trabaja activamente en proyectos que fomentan el empoderamiento colectivo, el acceso a la justicia, la igualdad de oportunidades y la preservación cultural. A través de la gestión de recursos y alianzas estratégicas con organismos municipales y departamentales, buscamos garantizar el bienestar y la prosperidad de cada miembro de nuestra comunidad, sin distinción de origen o condición social.
+    </p>
+</section>
+<section id="vision" style="padding: 20px; background-color: #f4f4f4; border-radius: 8px; margin: 20px auto; max-width: 900px; font-family: 'Century Gothic', sans-serif;">
     <h2 style="text-align: center; font-size: 28px; color: #2c3e50;">Visión</h2>
-    <p style="font-size: 18px; line-height: 1.8; color: #555;">
-        ADECONES se proyecta como una asociación integradora y líder en la promoción de los derechos humanos, sociales y culturales, trabajando en beneficio de toda la comunidad de San Antero, Córdoba. 
-        Nuestra visión abarca a todos los sectores sociales, incluyendo pescadores, agricultores, gente de mar, afrodescendientes, profesores, madres cabeza de hogar, niños, niñas, adolescentes, personas vulnerables, 
-        y otros órganos municipales y departamentales. Aspiramos a ser reconocidos como un motor de desarrollo que fomenta la igualdad, la inclusión y el progreso sostenible, sin distinción de raza, género o condición social.
+    <p style="font-size: 18px; line-height: 1.8; color: #555; text-align: justify;">
+        Nuestra visión es ser una organización referente en el país en la defensa y promoción de los derechos de las comunidades afrodescendientes y en el empoderamiento social, económico y cultural de los sectores vulnerables. Buscamos ser un modelo de trabajo en red, que promueva la cooperación y el desarrollo sostenible de la región de San Antero, contribuyendo a la transformación de la comunidad a través de proyectos que favorezcan la igualdad de oportunidades, el respeto por la diversidad cultural y el fortalecimiento de la identidad afrocolombiana.
     </p>
-    <p style="font-size: 18px; line-height: 1.8; color: #555;">
-        Para el año 2030, queremos consolidarnos como un referente nacional en la creación de proyectos de desarrollo comunitario que promuevan la educación, el bienestar, la participación ciudadana y la preservación del medio ambiente. 
-        Nuestro compromiso es trabajar de la mano con la comunidad Sananterana para construir un futuro basado en la equidad, la solidaridad y el respeto mutuo, siempre protegiendo y fortaleciendo los valores culturales que nos identifican.
+    <p style="font-size: 18px; line-height: 1.8; color: #555; text-align: justify;">
+        En el mediano y largo plazo, aspiramos a que ADECONES sea reconocida no solo como una entidad defensora de derechos, sino como un motor de desarrollo integral que promueva la justicia social y económica de todas las comunidades que servimos.
     </p>
-</section>  
-    <p><strong>Visión:</strong> Ser reconocidos
-    <!-- Sección Proyectos -->
-<section id="proyectos">
-    <h2>Proyectos</h2>
-    <p>
-        En ADECONES trabajamos en proyectos estratégicos que promueven el desarrollo integral de las comunidades negras de San Antero. Algunos de nuestros proyectos destacados son:
+</section>
+<section id="mision" style="padding: 20px; background-color: #f9fbe7; border-radius: 8px; margin: 20px auto; max-width: 900px; font-family: 'Century Gothic', sans-serif;">
+    <h2 style="text-align: center; font-size: 28px; color: #33691e;">Misión</h2>
+    <p style="font-size: 18px; line-height: 1.8; color: #555; text-align: justify;">
+        La misión de ADECONES es promover la defensa, promoción y respeto de los derechos humanos de las comunidades negras, indígenas y otros sectores vulnerables de San Antero, mediante la implementación de proyectos de desarrollo integral que fortalezcan sus capacidades, mejoren sus condiciones de vida y contribuyan a su empoderamiento económico, social y cultural. Trabajamos para ofrecer acceso a la justicia, mejorar la educación, proteger el medio ambiente y fomentar la equidad de género en nuestra comunidad.
     </p>
-    <ul>
-        <li>
-            <strong>Proyecto de Inclusión Educativa:</strong> Programa de becas para jóvenes afrodescendientes, en alianza con universidades locales, para garantizar el acceso a educación superior de calidad.
-        </li>
-        <li>
-            <strong>Fortalecimiento Cultural:</strong> Rescate y promoción de las tradiciones ancestrales mediante festivales, talleres y actividades artísticas.
-        </li>
-        <li>
-            <strong>Empoderamiento Económico:</strong> Creación de cooperativas agrícolas y comerciales que fomentan la autosuficiencia económica y la generación de empleo.
-        </li>
-        <li>
-            <strong>Defensa Jurídica Comunitaria:</strong> Asesorías legales para la protección de tierras ancestrales y la resolución de conflictos mediante mecanismos alternativos.
-        </li>
+    <p style="font-size: 18px; line-height: 1.8; color: #555; text-align: justify;">
+        Nos comprometemos a brindar un espacio de participación democrática y de toma de decisiones inclusivas, para asegurar que cada voz en nuestra comunidad sea escuchada y respetada, y para avanzar en la construcción de una San Antero más justa, equitativa y solidaria.
+    </p>
+</section>
+<section id="proyectos" style="padding: 20px; background-color: #e3f2fd; border-radius: 8px; margin: 20px auto; max-width: 900px; font-family: 'Century Gothic', sans-serif;">
+    <h2 style="text-align: center; font-size: 28px; color: #0d47a1;">Proyectos y Programas Clave</h2>
+    <ul style="font-size: 18px; line-height: 1.8; color: #555;">
+        <li><strong>Programa de Fortalecimiento Comunitario:</strong> Espacios de capacitación en derechos humanos, liderazgo social y gestión de proyectos comunitarios.</li>
+        <li><strong>Empoderamiento Económico:</strong> Capacitación y recursos para emprendedores locales, especialmente en el sector pesquero y agrícola, para mejorar la autosuficiencia económica.</li>
+        <li><strong>Preservación y Promoción Cultural:</strong> Actividades de sensibilización y eventos culturales para la promoción de las tradiciones afrocolombianas, incluyendo festivales y concursos.</li>
+        <li><strong>Desarrollo Infantil y Juvenil:</strong> Programas educativos, recreativos y deportivos para niños, niñas y adolescentes en situación de vulnerabilidad.</li>
+        <li><strong>Proyectos Ambientales:</strong> Iniciativas de conservación del ecosistema marino y terrestre, como campañas de reforestación y educación ambiental.</li>
+        <li><strong>Asesoría Jurídica y Atención al Ciudadano:</strong> Servicios de orientación legal gratuita en temas como derechos laborales, pensiones, vivienda y más.</li>
     </ul>
 </section>
-
-<!-- Sección Noticias -->
-<section id="noticias">
-    <h2>Noticias</h2>
-    <p>Mantente informado sobre los eventos, actividades y logros más recientes de ADECONES:</p>
-    <article>
-        <h3>Gran Feria Agroindustrial 2024</h3>
-        <p>
-            El próximo 15 de enero de 2025, ADECONES organizará la Feria Agroindustrial en el parque principal de San Antero. Un espacio para destacar los productos agrícolas de nuestras comunidades. ¡Participa y apoya!
-        </p>
-    </article>
-    <article>
-        <h3>Aprobación del Proyecto "Mujeres Emprended
 </body>
 </html>
